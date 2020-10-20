@@ -9,3 +9,5 @@
 - mandarines
 - pomes
 - olives
+- llums
+- cereals
