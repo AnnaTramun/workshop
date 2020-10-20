@@ -11,3 +11,4 @@
 - olives
 - llums
 - cereals
+- formatge
